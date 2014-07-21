@@ -1,21 +1,7 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# 过滤数据库文件
+*.sdf
+*.opensdf
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# 过滤文件夹
+VS2010Solution/Release
+VS2010Solution/helloopencv/Release
