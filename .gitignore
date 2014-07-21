@@ -3,5 +3,5 @@
 *.opensdf
 
 # 过滤文件夹
-VS2010Solution/Release
-VS2010Solution/helloopencv/Release
+VS2010Project/Release
+VS2010Project/helloopencv/Release
